@@ -9,7 +9,7 @@ P1_Hamard-260619897.ipynb
 
 P2_Hamard-260619897.ipynb
 
-P3_Hamard-260619897.ipynb
+P3_PierrickHamard-260619897.ipynb
 
 For my Numerical Methods course:
 
